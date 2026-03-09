@@ -6,7 +6,7 @@
   "publicationpoints": ["dev"],
   "generatedrepository": {
     "organisation": "Informatievlaanderen",
-    "repository": "wegenenverkeet.data.vlaanderen.be2-generated",
+    "repository": "wegenenverkeer.data.vlaanderen.be2-generated",
     "private": false,
     "gitEmail": "toolchain@wegenenverkeer.data.vlaanderen.be",
     "gitUser": "toolchain"
