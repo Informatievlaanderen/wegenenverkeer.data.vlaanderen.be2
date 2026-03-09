@@ -1,23 +1,17 @@
 {
   "primeLanguage": "nl",
-  "otherLanguages": [
-    "en",
-    "fr",
-    "de"
-  ],
-  "hostname": "https://dev.specs.org/",
-  "domain": "data.spec.org",
-  "publicationpoints": [
-    "dev"
-  ],
+  "otherLanguages": [],
+  "hostname": "https://wegenenverkeer.data.dev-vlaanderen.be/",
+  "domain": "wegenenverkeer.data.vlaanderen.be",
+  "publicationpoints": ["dev"],
   "generatedrepository": {
-    "organisation": "GitHubOrganisation",
-    "repository": "GeneratedRepository",
+    "organisation": "Informatievlaanderen",
+    "repository": "wegenenverkeet.data.vlaanderen.be2-generated",
     "private": false,
-    "gitEmail": "toolchain@dev.specs.org",
+    "gitEmail": "toolchain@wegenenverkeer.data.vlaanderen.be",
     "gitUser": "toolchain"
   },
-  "toolchainversion": "4.1.1",
+  "toolchainversion": "4.2.0",
   "toolchain": {
     "strickness": "lazy",
     "version": 4,
